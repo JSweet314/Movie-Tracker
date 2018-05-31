@@ -17,6 +17,11 @@ A group project with
 [Steven Lee Lawson](https://github.com/stevenleelawson)
 
 ## Screenshots
+Homepage
 ![HomePage](public/movie-finder-screenshot.png?raw=true "movie-tracker")
+
+Signup
 ![signUp](public/movie-tracker-signup2.png?raw=true "movie-tracker")
+
+Film Info
 ![info](public/movie-finder-info.png?raw=true "movie-tracker")
